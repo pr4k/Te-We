@@ -1,0 +1,6 @@
+ansi2html==1.5.2
+numpy==1.19.1
+opencv-python==4.4.0.42
+pkg-resources==0.0.0
+six==1.15.0
+sty==1.0.0b12
