@@ -1,4 +1,4 @@
-## Webcam Terminal
+## TE-WE (Terminal Webcam)
 
 I was using my linux and suddenly I realised that I have no application for webcam on my system, So I thought of creating one on my own.
 So presenting you the **Webcam Terminal**, A terminal client for webcam made solely with Ascii Characters.
