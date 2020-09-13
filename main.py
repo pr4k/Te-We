@@ -40,7 +40,7 @@ def renderImg(img):
 
     CURSOR_ONE_UP = "\033[A"
     for i in range(len(img)):
-    sys.stdout.write(CURSOR_ONE_UP)
+        sys.stdout.write(CURSOR_ONE_UP)
 
 
 def main():
